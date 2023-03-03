@@ -2,11 +2,9 @@
 
 🍏 I'm an iOS developer
 
-Now I live in Azerbaijan 🇦🇿
+Now I live in Azerbaijan Serbia 🇷🇸
 
 👨‍🔧 At the moment I work in [Gymber](https://github.com/GymberClub) and also participate in another [startup](https://github.com/Guidance-Inc), I have a pet project that is in the [App Store](https://apps.apple.com/us/app/army-builder-for-kt/id1636683900)
-
-🌱 I'm currently learning RxSwift and other new frameworks..
 
 📨 You can text me on [Telegram](https://t.me/VBerezinOld)
 
