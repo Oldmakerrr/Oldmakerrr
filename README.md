@@ -2,7 +2,7 @@
 
 🍏 I'm an iOS developer
 
-Now I live in Azerbaijan Serbia 🇷🇸
+Now I live in Serbia 🇷🇸
 
 👨‍🔧 At the moment I work in [Gymber](https://github.com/GymberClub) and also participate in another [startup](https://github.com/Guidance-Inc), I have a pet project that is in the [App Store](https://apps.apple.com/us/app/army-builder-for-kt/id1636683900)
 
